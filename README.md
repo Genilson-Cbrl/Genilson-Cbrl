@@ -1,6 +1,6 @@
 
 
-###Ola meu mundo!!
+Ola meu mundo!!
 
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genilson-negreiros)
 
@@ -9,7 +9,7 @@ busco sempre aprimorar meu conhecimento
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genilson-Cbrl&show_icons=true&theme=dracula)
 
-##Tecnologias
+Tecnologias
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
